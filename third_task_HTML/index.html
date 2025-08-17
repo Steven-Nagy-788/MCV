@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <form action="#">
+        <label for="name">Full Name:</label>
+        <input type="text" name="name" placeholder="Your Name" required>
+        <br>
+        <br>
+        <label for="mail">Email Address:</label>
+        <input type="email" name="mail" placeholder="example@domain.com" required>
+        <br>
+        <br>
+        <label for="mobile">Phone Number:</label>
+        <input type="tel" name="mobile" placeholder="0123456789" required>
+        <br>
+        <br>
+        <label for="fav_contact">Preferred Contact Method:</label>
+        <br>
+        <input type="radio" name="fav_contact" value="Phone">
+        <label for="Phone">Phone</label>
+        <input type="radio" name="fav_contact" value="mailBTN">
+        <label for="mailBTN">Email</label>
+        <br>
+        <br>
+        <label for="interestedIn">Service Interested In:</label>
+        <br>
+        <label for="webDesign">Web Design</label>
+        <input type="checkbox" name="interestedIn" value="webDesign">
+        <label for="Seo">SEO</label>
+        <input type="checkbox" name="interestedIn" value="Seo">
+        <label for="Hosting">Hosting</label>
+        <input type="checkbox" name="interestedIn" value="Hosting">
+        <br>
+        <br>
+        <label for="City">City:</label>
+        <br>
+        <select name="City">
+            <option value="default">Select City</option>
+            <option value="Cairo">Cairo</option>
+            <option value="Aswan">Aswan</option>
+            <option value="Alexandria">Alexandria</option>
+        </select>
+        <br>
+        <br>
+        <label for="mssg">Your Message:</label>
+        <br>
+        <textarea name="mssg" placeholder="Write your message here..."></textarea>
+        <br>
+        <br>
+        <button type="submit">Send Message</button>
+    </form>
+</body>
+</html>
