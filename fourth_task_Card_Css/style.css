@@ -1,0 +1,30 @@
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 500px;
+}
+
+.container img {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.container h2 {
+    padding-left: 5px;
+}
+
+.container p {
+    padding-left: 5px;
+}
+
+.container span {
+    border-radius: 5px;
+    padding: 3px;
+    padding-left: 5px;
+    min-width: 20px;
+    margin: 3px;
+    background-color: hsl(0, 0%, 75%);
+    font-size: 14px;
+}
