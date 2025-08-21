@@ -11,6 +11,8 @@ create table employees (
     FOREIGN KEY (dep_ID) REFERENCES department(dep_ID)
 );
 
+-- table form mangers realtion betweeen emp and dep
+-- grouping by departname mangname total salary for emp to the d
 INSERT INTO department (name) VALUES
 ('IT'),
 ('HR'),
