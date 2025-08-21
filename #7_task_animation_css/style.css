@@ -1,0 +1,62 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+}
+.container{
+    position: fixed;
+    width: 800px;
+    height: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    box-shadow: 3px 3px blue, 3px 3px red inset;
+    background-color: hsl(0, 0%, 95%);
+}
+.inCont {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.inCont img{
+    position: absolute;
+    /* margin: 10px; */
+    width: 200px;
+    animation: carAnimation 3s forwards, carRotations 1s linear infinite 3s;
+    /* animation-name: carAnimation;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-name: carRotations;
+    animation-duration: infinite; */
+}
+@keyframes carAnimation {
+    0%{
+        left: 0%;
+        top: 0%;
+    }
+    25%{
+        left: 75%;
+        top: 0%;
+    }
+    50%{
+        left: 75%;
+        top: 83%;
+        transform: rotateY(150deg);
+    }
+    75%{
+        left: 37%;
+        top: 83%;
+        
+    }
+    100%{
+        left: 37%;
+        top: 42%;
+    }
+}
+@keyframes carRotations {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

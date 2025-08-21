@@ -1,0 +1,42 @@
+h1 {
+    background-color: black;
+    color: white;
+    font: bold;
+    padding: 10px;
+}
+
+.note {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    box-shadow: 3px 3px black;
+    padding: 10px;
+}
+#first {
+    left: 5%;
+    top: 15%;
+    z-index: 1;
+}
+#sec {
+    left: 15%;
+    top: 45%;
+    transform: rotate(20deg);
+    z-index: 2;
+}
+#third {
+    left: 5%;
+    top: 65%;
+    z-index: 3;
+}
+.heplpBTN {
+    position: fixed;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    bottom: 40px;
+    right: 40px;
+}

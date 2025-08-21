@@ -1,0 +1,14 @@
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\bin\Debug\net8.0\TodoWithFiles.exe
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\bin\Debug\net8.0\TodoWithFiles.dll
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.AssemblyInfoInputs.cache
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.AssemblyInfo.cs
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.csproj.CoreCompileInputs.cache
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.dll
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\refint\TodoWithFiles.dll
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.pdb
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\bin\Debug\net8.0\TodoWithFiles.deps.json
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\bin\Debug\net8.0\TodoWithFiles.runtimeconfig.json
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\bin\Debug\net8.0\TodoWithFiles.pdb
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\TodoWithFiles.genruntimeconfig.cache
+D:\projects\trialCore\TodoWithFiles\TodoWithFiles\obj\Debug\net8.0\ref\TodoWithFiles.dll
