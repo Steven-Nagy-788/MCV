@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\trialCore\\TodoWithFiles\\TodoWithFiles\\TodoWithFiles.csproj",
+      "projectUniqueName": "D:\\projects\\MCV\\backendTasks\\1#_task_ToDo\\TodoWithFiles\\TodoWithFiles\\TodoWithFiles.csproj",
       "projectName": "TodoWithFiles",
-      "projectPath": "D:\\projects\\trialCore\\TodoWithFiles\\TodoWithFiles\\TodoWithFiles.csproj",
+      "projectPath": "D:\\projects\\MCV\\backendTasks\\1#_task_ToDo\\TodoWithFiles\\TodoWithFiles\\TodoWithFiles.csproj",
       "packagesPath": "C:\\Users\\Steven Nagy\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\trialCore\\TodoWithFiles\\TodoWithFiles\\obj\\",
+      "outputPath": "D:\\projects\\MCV\\backendTasks\\1#_task_ToDo\\TodoWithFiles\\TodoWithFiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
