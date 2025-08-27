@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskSwag\\Migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827084853_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250827084853_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827132523_adding sec table.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250827132523_adding sec table.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20250827132523_adding sec table.Designer.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827132523_adding sec table.Designer.cs",
               "RelativeDocumentMoniker": "taskSwag\\Migrations\\20250827132523_adding sec table.Designer.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827132523_adding sec table.Designer.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:34:49.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:34:49.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UserDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\UserDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "taskSwag\\Migrations\\UserDbContextModelSnapshot.cs",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "taskSwag\\Migrations\\UserDbContextModelSnapshot.cs",
               "ViewState": "AgIAACwAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:34:16.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:34:16.34Z"
             },
             {
               "$type": "Document",
@@ -105,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "20250827132523_adding sec table.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827132523_adding sec table.cs",
               "RelativeDocumentMoniker": "taskSwag\\Migrations\\20250827132523_adding sec table.cs",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827132523_adding sec table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:25:23.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:25:23.837Z"
             },
             {
               "$type": "Document",
@@ -126,12 +123,11 @@
               "RelativeToolTip": "taskSwag\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:11:40.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:11:40.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "20250827084853_first.Designer.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827084853_first.Designer.cs",
               "RelativeDocumentMoniker": "taskSwag\\Migrations\\20250827084853_first.Designer.cs",
@@ -139,12 +135,11 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827084853_first.Designer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T10:13:45.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T10:13:45.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "taskSwag.http",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\taskSwag.http",
               "RelativeDocumentMoniker": "taskSwag\\taskSwag.http",
@@ -152,12 +147,11 @@
               "RelativeToolTip": "taskSwag\\taskSwag.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-27T08:27:38.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:27:38.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\appsettings.json",
               "RelativeDocumentMoniker": "taskSwag\\appsettings.json",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "taskSwag\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T08:27:19.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:27:19.053Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "taskSwag\\Controllers\\UserController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:26:15.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:26:15.494Z"
             },
             {
               "$type": "Document",
@@ -191,21 +183,19 @@
               "RelativeToolTip": "taskSwag\\Models\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:23:03.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:23:03.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "taskSwag",
+              "DocumentIndex": 9,
+              "Title": "taskSwag.csproj",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\taskSwag.csproj",
               "RelativeDocumentMoniker": "taskSwag\\taskSwag.csproj",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\taskSwag.csproj",
               "RelativeToolTip": "taskSwag\\taskSwag.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T08:09:01.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:09:01.462Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "taskSwag\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:16:35.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:16:35.734Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "taskSwag\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:34:37.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T07:34:37.445Z"
             },
             {
               "$type": "Bookmark",
