@@ -1,0 +1,6 @@
+@taskSwag_HostAddress = http://localhost:5217
+
+GET {{taskSwag_HostAddress}}/api/
+Accept: application/json
+
+###
