@@ -1,0 +1,47 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using taskMCV.Models;
+namespace taskMCV.Controllers
+{
+    public class TodoController
+    {
+        private readonly TodoDbContext _context;
+        public TodoController(TodoDbContext context)
+        {
+            _context = context;
+        }
+        public async ValueTask<List<Todo>> GetAllTodos()
+        {
+            return await _context.Todos.ToListAsync();
+        }
+        public async Task CreateTodo(Todo todo)
+        {
+            _context.Todos.Add(todo);
+            await _context.SaveChangesAsync();
+        }
+        public async ValueTask<Todo?> GetTodoById(int id)
+        {
+            return await _context.Todos.FindAsync(id);
+        }
+        public async Task UpdateTodo(int id, Todo updatedTodo)
+        {
+            var todo = await _context.Todos.FindAsync(id);
+            if (todo != null)
+            {
+                todo.Title = updatedTodo.Title;
+                todo.IsCompleted = updatedTodo.IsCompleted;
+                await _context.SaveChangesAsync();
+            }
+        }
+        public async Task DeleteTodo(int id)
+        {
+            var todo = await _context.Todos.FindAsync(id);
+            if (todo != null)
+            {
+                _context.Todos.Remove(todo);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+    }
+} 

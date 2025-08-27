@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\taskmcv\\taskmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|solutionrelative:taskmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\taskmcv\\taskmcv\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|solutionrelative:taskmcv\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\taskmcv\\taskmcv\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|solutionrelative:taskmcv\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Migrations\\20250827064248_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskMCV\\Migrations\\20250827064248_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\taskmcv\\taskmcv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|solutionrelative:taskmcv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\taskmcv\\taskmcv\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9DBAC7-DB8B-487E-858A-E4A7708EFE12}|taskMCV\\taskMCV.csproj|solutionrelative:taskmcv\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "taskMCV\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "taskMCV\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:47:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250827064248_Initial Migration.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Migrations\\20250827064248_Initial Migration.cs",
+              "RelativeDocumentMoniker": "taskMCV\\Migrations\\20250827064248_Initial Migration.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Migrations\\20250827064248_Initial Migration.cs",
+              "RelativeToolTip": "taskMCV\\Migrations\\20250827064248_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:42:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Program.cs",
+              "RelativeDocumentMoniker": "taskMCV\\Program.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Program.cs",
+              "RelativeToolTip": "taskMCV\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:33:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\appsettings.json",
+              "RelativeDocumentMoniker": "taskMCV\\appsettings.json",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\appsettings.json",
+              "RelativeToolTip": "taskMCV\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T06:31:04.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Models\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "taskMCV\\Models\\TodoDbContext.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Models\\TodoDbContext.cs",
+              "RelativeToolTip": "taskMCV\\Models\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:12:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "taskMCV\\Models\\Todo.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\taskMCV\\taskMCV\\Models\\Todo.cs",
+              "RelativeToolTip": "taskMCV\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:03:23.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\storage\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\storage\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\storage\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\storage\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\storage\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\storage\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|d:\\projects\\mcv\\backendtasks\\#3_task_mvc_arch_api\\crudwithmssql\\crudwithmssql\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8359C-BAD1-4FB6-B7EC-C184583A0D09}|CrudWithMsSql\\CrudWithMsSql.csproj|solutionrelative:crudwithmssql\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 179,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAswDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:10:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAswHEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:09:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Storage\\DepartmentRepository.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\DepartmentRepository.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Storage\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:32:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Storage\\EmployeeRepository.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\EmployeeRepository.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Storage\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:27:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Storage\\AppDbContext.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Storage\\AppDbContext.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Storage\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:20:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Models\\Department.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Models\\Department.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:49:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Models\\Employee.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Models\\Employee.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:48:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWithMsSql\\Program.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#3_task_MVC_arch_api\\CrudWithMsSql\\CrudWithMsSql\\Program.cs",
+              "RelativeToolTip": "CrudWithMsSql\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:27:47.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
