@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("taskSwag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40371c396790baa58c2233790a984820974a85dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+440f7f42339507780a75c40bcf9c5f4a347a17f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("taskSwag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("taskSwag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

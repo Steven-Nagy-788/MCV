@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskSwag\\Migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +19,16 @@
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskSwag\\Migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827084853_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827132523_adding sec table.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250827132523_adding sec table.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250827132523_adding sec table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +66,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 753,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250828113603_new table.cs",
+              "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250828113603_new table.cs",
+              "RelativeDocumentMoniker": "taskSwag\\Migrations\\20250828113603_new table.cs",
+              "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250828113603_new table.cs",
+              "RelativeToolTip": "taskSwag\\Migrations\\20250828113603_new table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:36:03.609Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 12,
@@ -74,8 +95,7 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827132523_adding sec table.Designer.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:34:49.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:34:49.176Z"
             },
             {
               "$type": "Document",
@@ -87,25 +107,24 @@
               "RelativeToolTip": "taskSwag\\Migrations\\UserDbContextModelSnapshot.cs",
               "ViewState": "AgIAACwAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:34:16.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:34:16.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LocationController.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Controllers\\LocationController.cs",
               "RelativeDocumentMoniker": "taskSwag\\Controllers\\LocationController.cs",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Controllers\\LocationController.cs",
               "RelativeToolTip": "taskSwag\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwEcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T13:27:52.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "20250827132523_adding sec table.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250827132523_adding sec table.cs",
               "RelativeDocumentMoniker": "taskSwag\\Migrations\\20250827132523_adding sec table.cs",
@@ -113,18 +132,17 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827132523_adding sec table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:25:23.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:25:23.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Location.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\Location.cs",
               "RelativeDocumentMoniker": "taskSwag\\Models\\Location.cs",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\Location.cs",
               "RelativeToolTip": "taskSwag\\Models\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T13:11:40.301Z",
               "EditorCaption": ""
@@ -139,8 +157,7 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250827084853_first.Designer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T10:13:45.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T10:13:45.837Z"
             },
             {
               "$type": "Document",
@@ -152,8 +169,7 @@
               "RelativeToolTip": "taskSwag\\taskSwag.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-27T08:27:38.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:27:38.621Z"
             },
             {
               "$type": "Document",
@@ -165,31 +181,30 @@
               "RelativeToolTip": "taskSwag\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T08:27:19.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:27:19.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "taskSwag\\Controllers\\UserController.cs",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Controllers\\UserController.cs",
               "RelativeToolTip": "taskSwag\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwEUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T08:26:15.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DbContext.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\DbContext.cs",
               "RelativeDocumentMoniker": "taskSwag\\Models\\DbContext.cs",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\DbContext.cs",
               "RelativeToolTip": "taskSwag\\Models\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T08:23:03.656Z",
               "EditorCaption": ""
@@ -197,32 +212,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "taskSwag",
+              "Title": "taskSwag.csproj",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\taskSwag.csproj",
               "RelativeDocumentMoniker": "taskSwag\\taskSwag.csproj",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\taskSwag.csproj",
               "RelativeToolTip": "taskSwag\\taskSwag.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T08:09:01.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:09:01.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\User.cs",
               "RelativeDocumentMoniker": "taskSwag\\Models\\User.cs",
               "ToolTip": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Models\\User.cs",
               "RelativeToolTip": "taskSwag\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T08:16:35.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Program.cs",
               "RelativeDocumentMoniker": "taskSwag\\Program.cs",
@@ -230,12 +244,7 @@
               "RelativeToolTip": "taskSwag\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:34:37.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-08-27T07:34:37.445Z"
             }
           ]
         }

@@ -4,11 +4,11 @@ namespace taskSwag.Models
     {
         public string? Name { get; set; }
         public string? Phone { get; set; }
-        public int? LocationId { get; set; } // Foreign key to Location
+        public int? LocationId { get; set; } 
     }
     public class User: UserDto
     {
         public int? Id { get; set; }
-        public Location? Location { get; set; } // Navigation property
+        public Location? Location { get; set; } 
     }
 }
