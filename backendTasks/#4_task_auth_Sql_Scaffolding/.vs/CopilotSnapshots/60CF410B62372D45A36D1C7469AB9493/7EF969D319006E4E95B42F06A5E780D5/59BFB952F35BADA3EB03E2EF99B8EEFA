@@ -1,0 +1,49 @@
+﻿@_4_task_auth_Sql_Scaffolding_HostAddress = http://localhost:5156
+
+# Test Departments API
+GET {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/departments
+Accept: application/json
+
+###
+
+# Test Employees API
+GET {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/employees
+Accept: application/json
+
+###
+
+# Get specific department
+GET {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/departments/1
+Accept: application/json
+
+###
+
+# Get specific employee
+GET {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/employees/1
+Accept: application/json
+
+###
+
+# Create new department
+POST {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/departments
+Content-Type: application/json
+
+{
+  "depId": 0,
+  "name": "IT Department"
+}
+
+###
+
+# Create new employee
+POST {{_4_task_auth_Sql_Scaffolding_HostAddress}}/api/employees
+Content-Type: application/json
+
+{
+  "id": 0,
+  "name": "John Doe",
+  "salary": 50000,
+  "depId": 1
+}
+
+###

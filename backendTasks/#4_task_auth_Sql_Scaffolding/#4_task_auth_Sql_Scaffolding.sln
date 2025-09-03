@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#4_task_auth_Sql_Scaffolding", "#4_task_auth_Sql_Scaffolding\#4_task_auth_Sql_Scaffolding.csproj", "{A30D7165-28B8-4E52-B6CB-B4D97D3F51FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30D7165-28B8-4E52-B6CB-B4D97D3F51FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30D7165-28B8-4E52-B6CB-B4D97D3F51FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30D7165-28B8-4E52-B6CB-B4D97D3F51FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30D7165-28B8-4E52-B6CB-B4D97D3F51FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5701939-7EFA-4563-8D18-2295A9FEA514}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿using Microsoft.EntityFrameworkCore;
+namespace _4_task_auth_Sql_Scaffolding.Models
+{
+    // Rename this class to avoid conflict with Microsoft.EntityFrameworkCore.DbContext
+    public class CompanyDbContext : DbContext
+    {
+        public CompanyDbContext(DbContextOptions<CompanyDbContext> options) : base(options)
+        {
+        }
+        public DbSet<Employ> Employs { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Configure the relationship between Employ and Department
+            modelBuilder.Entity<Employ>()
+                .HasOne(e => e.Department)
+                .WithMany(d => d.Employs)
+                .HasForeignKey(e => e.DeptId);
+                
+            base.OnModelCreating(modelBuilder);
+        }
+    }
+}

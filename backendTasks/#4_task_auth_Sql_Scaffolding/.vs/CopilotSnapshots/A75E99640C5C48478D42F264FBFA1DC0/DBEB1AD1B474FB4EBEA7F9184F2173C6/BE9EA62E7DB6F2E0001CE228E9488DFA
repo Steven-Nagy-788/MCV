@@ -1,0 +1,13 @@
+﻿namespace _4_task_auth_Sql_Scaffolding.Models
+{
+    public class Employ
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public int? Salary { get; set; }
+        public int? DeptId { get; set; }
+        
+        // Navigation property
+        public virtual Department? Department { get; set; }
+    }
+}

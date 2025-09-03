@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+
+namespace _4_task_auth_Sql_Scaffolding.ScaffoldedModels;
+
+public partial class ScaffoldedCompanyContext : DbContext
+{
+    public ScaffoldedCompanyContext()
+    {
+    }
+
+    public ScaffoldedCompanyContext(DbContextOptions<ScaffoldedCompanyContext> options)
+        : base(options)
+    {
+    }
+
+    public virtual DbSet<Department> Departments { get; set; }
+
+    public virtual DbSet<Employ> Employs { get; set; }
+
+    // Removed the hardcoded connection string - will use dependency injection instead
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        // Only configure if no options were provided (for cases without DI)
+        if (!optionsBuilder.IsConfigured)
+        {
+            // This should be configured via dependency injection in Program.cs
+        }
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Employ>(entity =>
+        {
+            entity.HasIndex(e => e.DeptId, "IX_Employs_DeptId");
+
+            entity.HasOne(d => d.Dept).WithMany(p => p.Employs).HasForeignKey(d => d.DeptId);
+        });
+
+        OnModelCreatingPartial(modelBuilder);
+    }
+
+    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+}

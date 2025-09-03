@@ -1,0 +1,10 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "defaultConnection": "Data Source=localhost;Initial Catalog=Company;Integrated Security=True;Pooling=False;Encrypt=True;Trust Server Certificate=True"
+}

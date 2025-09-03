@@ -1,0 +1,11 @@
+﻿namespace _4_task_auth_Sql_Scaffolding.Models
+{
+    public class Department
+    {
+        public int Id { get; set; }
+        public string? DeptName { get; set; }
+        
+        // Navigation property - collection of employees
+        public virtual ICollection<Employ>? Employs { get; set; }
+    }
+}

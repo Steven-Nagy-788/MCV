@@ -1,0 +1,104 @@
+﻿using _4_task_auth_Sql_Scaffolding.Data;
+using _4_task_auth_Sql_Scaffolding.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
+
+var builder = WebApplication.CreateBuilder(args);
+
+//builder.Services.AddControllersWithViews();
+
+builder.Services.AddAuthentication(x =>
+{
+    x.DefaultAuthenticateScheme= JwtBearerDefaults.AuthenticationScheme;
+    x.DefaultChallengeScheme= JwtBearerDefaults.AuthenticationScheme;
+    x.DefaultScheme= JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(x =>
+{
+    x.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
+        ValidAudience = builder.Configuration["JwtSettings:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Key"]))
+
+
+    };
+});
+builder.Services.AddAuthorization();
+
+// Register JWT service
+builder.Services.AddScoped<IJwtService, JwtService>();
+
+builder.Services.AddDbContext<EmployContext>(options=>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+
+// Enhanced Swagger configuration with JWT support
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Employee API", Version = "v1" });
+    
+    // Add JWT authentication to Swagger
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
+        Name = "Authorization",
+        In = ParameterLocation.Header,
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer"
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
+
+var app = builder.Build();
+
+//if (!app.Environment.IsDevelopment())
+//{
+//    app.UseExceptionHandler("/Home/Error");
+//    app.UseHsts();
+//}
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Employee API V1");
+        c.RoutePrefix = string.Empty; // Set Swagger UI at the app's root
+    });
+}
+
+app.UseHttpsRedirection();
+app.UseAuthentication();
+app.UseAuthorization();
+app.UseStaticFiles();
+app.UseRouting();
+
+// Map API controllers
+app.MapControllers();
+
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller=Employees}/{action=Index}/{id?}");
+
+app.Run();

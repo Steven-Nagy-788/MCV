@@ -1,0 +1,9 @@
+﻿namespace _4_task_auth_Sql_Scaffolding.Models
+{
+    public class Department
+    {
+        public int Id { get; set; }
+        public string? DeptName { get; set; }
+        List<Employ>? Employs { get; set; }
+    }
+}

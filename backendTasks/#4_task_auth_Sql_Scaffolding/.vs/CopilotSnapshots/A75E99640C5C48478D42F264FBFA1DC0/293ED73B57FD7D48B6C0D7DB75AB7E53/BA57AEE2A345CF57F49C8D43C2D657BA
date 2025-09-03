@@ -1,0 +1,51 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using _4_task_auth_Sql_Scaffolding.ScaffoldedModels;
+
+namespace _4_task_auth_Sql_Scaffolding.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class EmployeesController : ControllerBase
+    {
+        private readonly ScaffoldedCompanyContext _context;
+
+        public EmployeesController(ScaffoldedCompanyContext context)
+        {
+            _context = context;
+        }
+
+        // GET: api/Employees
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Employ>>> GetEmployees()
+        {
+            return await _context.Employs.Include(e => e.Dept).ToListAsync();
+        }
+
+        // GET: api/Employees/5
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Employ>> GetEmployee(int id)
+        {
+            var employee = await _context.Employs
+                .Include(e => e.Dept)
+                .FirstOrDefaultAsync(e => e.Id == id);
+
+            if (employee == null)
+            {
+                return NotFound();
+            }
+
+            return employee;
+        }
+
+        // POST: api/Employees
+        [HttpPost]
+        public async Task<ActionResult<Employ>> PostEmployee(Employ employee)
+        {
+            _context.Employs.Add(employee);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetEmployee), new { id = employee.Id }, employee);
+        }
+    }
+}

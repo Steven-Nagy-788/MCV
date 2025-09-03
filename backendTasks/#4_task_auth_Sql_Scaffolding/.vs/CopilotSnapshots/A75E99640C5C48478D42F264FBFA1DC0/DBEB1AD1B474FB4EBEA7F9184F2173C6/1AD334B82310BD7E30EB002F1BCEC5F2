@@ -1,0 +1,11 @@
+﻿namespace _4_task_auth_Sql_Scaffolding.Models
+{
+    public class Employ
+    {
+        int Id { get; set; }
+        string? Name { get; set; }
+        int? Salary { get; set; }
+        int? DeptId { get; set; }
+        List<Department>? Departments { get; set; }
+    }
+}

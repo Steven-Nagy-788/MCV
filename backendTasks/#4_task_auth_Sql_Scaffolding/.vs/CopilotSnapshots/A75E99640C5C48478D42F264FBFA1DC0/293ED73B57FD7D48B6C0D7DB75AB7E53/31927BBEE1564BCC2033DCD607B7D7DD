@@ -1,0 +1,51 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using _4_task_auth_Sql_Scaffolding.ScaffoldedModels;
+
+namespace _4_task_auth_Sql_Scaffolding.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class DepartmentsController : ControllerBase
+    {
+        private readonly ScaffoldedCompanyContext _context;
+
+        public DepartmentsController(ScaffoldedCompanyContext context)
+        {
+            _context = context;
+        }
+
+        // GET: api/Departments
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Department>>> GetDepartments()
+        {
+            return await _context.Departments.Include(d => d.Employs).ToListAsync();
+        }
+
+        // GET: api/Departments/5
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Department>> GetDepartment(int id)
+        {
+            var department = await _context.Departments
+                .Include(d => d.Employs)
+                .FirstOrDefaultAsync(d => d.Id == id);
+
+            if (department == null)
+            {
+                return NotFound();
+            }
+
+            return department;
+        }
+
+        // POST: api/Departments
+        [HttpPost]
+        public async Task<ActionResult<Department>> PostDepartment(Department department)
+        {
+            _context.Departments.Add(department);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetDepartment), new { id = department.Id }, department);
+        }
+    }
+}

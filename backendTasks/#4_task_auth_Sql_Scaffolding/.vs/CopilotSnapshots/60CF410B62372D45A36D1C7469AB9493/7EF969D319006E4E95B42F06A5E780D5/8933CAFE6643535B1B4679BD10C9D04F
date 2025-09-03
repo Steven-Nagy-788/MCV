@@ -1,0 +1,6 @@
+﻿@_4_task_auth_Sql_Scaffolding_HostAddress = http://localhost:5156
+
+GET {{_4_task_auth_Sql_Scaffolding_HostAddress}}/company/
+Accept: application/json
+
+###

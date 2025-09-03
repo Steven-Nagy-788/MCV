@@ -1,0 +1,17 @@
+﻿{
+  "JwtSettings": {
+    "Key": "ForTheGoodOfAllMankindhellodudeAlo",
+    "Issuer": "YourApp",
+    "Audience": "YourAppUsers"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost;Initial Catalog=employ;Integrated Security=True;Trust Server Certificate=True"
+  }
+}

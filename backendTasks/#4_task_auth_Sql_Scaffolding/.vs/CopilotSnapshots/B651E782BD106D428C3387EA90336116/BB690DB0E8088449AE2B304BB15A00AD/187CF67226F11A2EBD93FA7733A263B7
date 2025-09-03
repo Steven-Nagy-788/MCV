@@ -1,0 +1,17 @@
+﻿{
+  "JwtSettings": {
+    "Key": "ForTheGoodOfAllMankind",
+    "Issuer": "https://localhost:7000",
+    "Audience": "https://localhost:7000"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost;Initial Catalog=employ;Integrated Security=True;Trust Server Certificate=True"
+  }
+}

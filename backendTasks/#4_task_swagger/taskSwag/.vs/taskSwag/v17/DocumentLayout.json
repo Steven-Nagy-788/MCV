@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\MCV\\backendTasks\\#4_task_swagger\\taskSwag\\taskSwag\\Migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskSwag\\Migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|solutionrelative:taskswag\\migrations\\20250828113603_new table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5553F018-613B-4C12-9E53-A5E2B2C7B515}|taskSwag\\taskSwag.csproj|d:\\projects\\mcv\\backendtasks\\#4_task_swagger\\taskswag\\taskswag\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,8 +82,7 @@
               "RelativeToolTip": "taskSwag\\Migrations\\20250828113603_new table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:36:03.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T11:36:03.609Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "taskSwag\\Controllers\\LocationController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:27:52.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:27:52.911Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "taskSwag\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:11:40.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T13:11:40.301Z"
             },
             {
               "$type": "Document",
@@ -193,8 +190,7 @@
               "RelativeToolTip": "taskSwag\\Controllers\\UserController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwEUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:26:15.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:26:15.494Z"
             },
             {
               "$type": "Document",
@@ -206,8 +202,7 @@
               "RelativeToolTip": "taskSwag\\Models\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:23:03.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:23:03.656Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "RelativeToolTip": "taskSwag\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:16:35.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T08:16:35.734Z"
             },
             {
               "$type": "Document",

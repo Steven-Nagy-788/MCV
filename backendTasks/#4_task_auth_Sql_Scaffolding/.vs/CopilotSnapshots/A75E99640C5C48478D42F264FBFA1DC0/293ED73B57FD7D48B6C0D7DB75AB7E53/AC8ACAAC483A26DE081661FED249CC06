@@ -1,0 +1,32 @@
+﻿using Microsoft.EntityFrameworkCore;
+using _4_task_auth_Sql_Scaffolding.Models;
+using _4_task_auth_Sql_Scaffolding.ScaffoldedModels;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// Option 1: Use your original context
+// builder.Services.AddDbContext<CompanyDbContext>(options =>
+//     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+ // Option 2: Use the scaffolded context (recommended)
+builder.Services.AddDbContext<ScaffoldedCompanyContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+
+app.MapControllers();
+
+app.Run();
